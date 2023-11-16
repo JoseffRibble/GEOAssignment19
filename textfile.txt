@@ -1,3 +1,5 @@
 I'm writing a beautiful text file using vim.
 
 I sure hope whomever decides to edit this file also uses vim.
+
+--no :)
